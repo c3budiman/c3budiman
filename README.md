@@ -7,8 +7,6 @@ I code mainly on JavaScript and very experienced on it. More information about m
 <span style="display:inline-block; width: 10px;"></span>
 ![Top Langs](https://github-stats-six.vercel.app/api/top-langs/?username=c3budiman&show_icons=true&layout=compact&theme=vue&count_private=truecount_private=true)
 
-![C3budiman's blog](https://github-read-medium.vercel.app/latest?username=c3budiman&limit=6&theme=vue)
-
 ## Get in Touch
 I'm always open for work/project oppurtinity, feel free to reach me out via :
 - Email : [c3budiman@gmail.com](mailto:c3budiman@gmail.com)
