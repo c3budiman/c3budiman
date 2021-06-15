@@ -13,4 +13,5 @@ I'm always open for work/project oppurtinity, feel free to reach me out via :
 - LinkedIn : [Cecep Budiman](https://www.linkedin.com/in/c3budiman/)
 
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+
 – Martin Fowler
