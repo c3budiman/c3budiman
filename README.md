@@ -12,6 +12,10 @@ I'm always open for work/project oppurtinity, feel free to reach me out via :
 - Email : [c3budiman@gmail.com](mailto:c3budiman@gmail.com)
 - LinkedIn : [Cecep Budiman](https://www.linkedin.com/in/c3budiman/)
 
+## My Favorite
+Web : <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+Mobile : <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 – Martin Fowler
