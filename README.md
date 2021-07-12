@@ -28,4 +28,5 @@ I'm always open for work/project oppurtinity, feel free to reach me out via :
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 ### Hacking
-<img src="https://tryhackme-badges.s3.amazonaws.com/c3budiman.png" alt="TryHackMe">
+![Image](https://tryhackme-badges.s3.amazonaws.com/c3budiman.png)
+
