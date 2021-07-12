@@ -12,6 +12,7 @@ I'm always open for work/project oppurtinity, feel free to reach me out via :
 - Email : [c3budiman@gmail.com](mailto:c3budiman@gmail.com)
 - LinkedIn : [Cecep Budiman](https://www.linkedin.com/in/c3budiman/)
 - Medium : [Cecep Budiman](https://medium.com/@cecepbudiman)
+- THM : [Cecep Budiman](https://tryhackme.com/p/c3budiman)
 
 ## My top skills
 
@@ -26,7 +27,4 @@ I'm always open for work/project oppurtinity, feel free to reach me out via :
 
 ### Scripting
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-### Hacking
-<img alt="c3budiman" src="https://tryhackme-badges.s3.amazonaws.com/c3budiman.png" />
 
